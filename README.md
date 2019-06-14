@@ -1,0 +1,1 @@
+# Spot-Testing-using-K-NN-Logistic-and-Naive-Bayes-for-Diabetes-Dataset
